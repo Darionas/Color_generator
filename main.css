@@ -1,0 +1,42 @@
+#cont {position: relative; min-height: 100vh;}
+
+#main {margin-left: 12px;}
+
+.ban {
+  margin: 25px;
+  width: 90px;
+  height: auto;
+  border-radius: 7px;
+  background-color: white;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  background-color: darkslategrey;
+  text-align: center;
+  width: 100%;
+  height: 120px;
+}
+
+#clr {
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 18px;
+  max-width: 350px;
+  height: 60px;
+  text-align: center;
+}
+
+.br {
+  border: 1px solid black;
+  width: 250px;
+}
+
+#btn {
+  padding: 10px;
+  border: none;
+  background-color: teal;
+  border-radius: 8px;
+  color: wheat;
+}
